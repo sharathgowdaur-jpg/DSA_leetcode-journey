@@ -1,3 +1,4 @@
+#SOLUTION==1
 class Solution:
     def addDigits(self, num: int) -> int:
         sum=0
@@ -11,7 +12,7 @@ class Solution:
             return self.addDigits(sum)
 
 
-
+#SOLUTION==2
 class Solution:
     def addDigits(self, num: int) -> int:
         if num < 10:

@@ -1,4 +1,4 @@
-#solution 1
+#SOLUTION==1
 class Solution:
     def arraySign(self, nums: List[int]) -> int:
         sign=1
@@ -9,7 +9,7 @@ class Solution:
                 sign=-sign
         return sign
     
-#solution2
+#SOLUTION==2
 class Solution:
     def arraySign(self, nums: List[int]) -> int:
         count=0
