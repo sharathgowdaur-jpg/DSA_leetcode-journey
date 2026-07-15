@@ -1,4 +1,5 @@
 # SOLUTION - 1
+import math
 class Solution:
     def gcdOfOddEvenSums(self, n: int) -> int:
         sumOdd=0
