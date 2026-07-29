@@ -9,4 +9,3 @@ class Solution:
                 return True
             elif num > n:
                 return False
-        

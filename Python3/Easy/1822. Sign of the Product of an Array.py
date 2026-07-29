@@ -8,7 +8,7 @@ class Solution:
             elif num < 0:
                 sign=-sign
         return sign
-    
+
 #SOLUTION==2
 class Solution:
     def arraySign(self, nums: List[int]) -> int:

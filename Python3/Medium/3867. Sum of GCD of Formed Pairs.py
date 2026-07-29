@@ -12,7 +12,7 @@ class Solution:
         for i in range(len(nums)):
             maximum=max(maximum,nums[i])
             prefgcd[i] = self.gcd(maximum,nums[i])
-        
+
         prefgcd.sort()
         total=0
         i=0

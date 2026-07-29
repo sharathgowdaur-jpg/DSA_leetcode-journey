@@ -9,7 +9,7 @@ class Solution:
             elif num%r!=0:
                 return False
         return True
-            
+
     def selfDividingNumbers(self, left: int, right: int) -> List[int]:
         ans=[]
         for i in range(left,right+1):
