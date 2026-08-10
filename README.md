@@ -5,7 +5,7 @@
   <h2>👋 Hi, I'm <b>Sharath U R</b></h2>
   <p>
     🎓 AI & Machine Learning Student <br>
-    🐍 Python Developer <br>
+    🐍 Python Learner <br>
     💡 Data Structures & Algorithms Enthusiast
   </p>
 
