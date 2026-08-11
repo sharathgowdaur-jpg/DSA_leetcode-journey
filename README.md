@@ -113,10 +113,10 @@ Examples:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    |   33   |
+| 🟢 Easy    |   34   |
 | 🟡 Medium  |   09   |
 | 🔴 Hard    |   01   |
-| ⭐ Total   |   43   |
+| ⭐ Total   |   44   |
 
 > I will update these numbers as I continue solving more problems.
 
