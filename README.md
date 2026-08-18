@@ -114,9 +114,9 @@ Examples:
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    |   36   |
-| 🟡 Medium  |   11   |
+| 🟡 Medium  |   12   |
 | 🔴 Hard    |   01   |
-| ⭐ Total   |   48   |
+| ⭐ Total   |   49   |
 
 > I will update these numbers as I continue solving more problems.
 
