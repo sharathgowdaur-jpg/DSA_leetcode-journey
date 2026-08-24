@@ -115,8 +115,8 @@ Examples:
 | ---------- | ------ |
 | 🟢 Easy    |   38   |
 | 🟡 Medium  |   13   |
-| 🔴 Hard    |   02   |
-| ⭐ Total   |   53   |
+| 🔴 Hard    |   03   |
+| ⭐ Total   |   54   |
 
 > I will update these numbers as I continue solving more problems.
 
