@@ -113,7 +113,7 @@ Examples:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    |   79   |
+| 🟢 Easy    |   80   |
 | 🟡 Medium  |   25   |
 | 🔴 Hard    |   05   |
 | ⭐ Total   |   99+  |
