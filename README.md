@@ -1,171 +1,255 @@
-﻿# LeetCode Solutions
-# 🚀 LeetCode Solutions
-
+<!-- Dynamic Colorful Header Banner -->
 <p align="center">
-  <h2>👋 Hi, I'm <b>Sharath U R</b></h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=LeetCode%20Solutions&fontSize=48&fontAlignY=38&desc=%F0%9F%9A%80%20Daily%20DSA%20%26%20SQL%20Practice%20by%20Sharath%20U%20R&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="LeetCode Solutions Banner"/>
+</p>
+
+<!-- Profile Intro & Quick Badges -->
+<div align="center">
+
+  <h2>👋 Welcome to My LeetCode Journey!</h2>
   <p>
-    🎓 AI & Machine Learning Student <br>
-    🐍 Python Learner <br>
-    💡 Data Structures & Algorithms Enthusiast
+    <b>🎓 AI & Machine Learning Student</b> &nbsp;|&nbsp; 
+    <b>🐍 Python Enthusiast</b> &nbsp;|&nbsp; 
+    <b>💡 Data Structures, Algorithms & SQL Explorer</b>
   </p>
 
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Daily%20Practice-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Learning-blue?style=for-the-badge"/>
+  <p>
+    <a href="https://leetcode.com/u/sharath_u_r/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/></a>
+    <a href="https://github.com/sharathgowdaur-jpg"><img src="https://img.shields.io/badge/GitHub-sharathgowdaur--jpg-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
+    <img src="https://img.shields.io/badge/Status-Daily%20Grind-00B4D8?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
+    <img src="https://img.shields.io/badge/Total%20Solved-128%2B-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Solved Count"/>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Data_Structures-Arrays_%7C_Trees_%7C_Graphs-8A2BE2?style=flat-square" alt="DSA"/>
+    <img src="https://img.shields.io/badge/Interviews-Prep-F77F00?style=flat-square" alt="Interviews"/>
+  </p>
+
+</div>
+
+---
+
+## 📌 Table of Contents
+
+- [📖 About The Repository](#-about-the-repository)
+- [📊 Solved Problems Statistics](#-solved-problems-statistics)
+- [⚡ Live LeetCode Card](#-live-leetcode-card)
+- [🛠️ Languages & Tech Stack](#️-languages--tech-stack)
+- [📂 Repository Structure](#-repository-structure)
+- [📝 File Naming Convention](#-file-naming-convention)
+- [📚 Key Topics Covered](#-key-topics-covered)
+- [🎯 Roadmap & Goals](#-roadmap--goals)
+- [🤝 Connect & Support](#-connect--support)
+
+---
+
+## 📖 About The Repository
+
+Welcome to my dedicated **LeetCode Problem-Solving Repository**! 🚀
+
+This repository documents my daily grind in mastering **Data Structures & Algorithms (DSA)** and **Relational Database Querying (SQL)**. Each solution is crafted with an emphasis on:
+
+* ⚡ **Optimal Time & Space Complexity**
+* 🧼 **Clean, readable, and PEP-8 compliant code**
+* 💡 **Detailed intuition, modular logic, and edge-case handling**
+* 🎯 **Strong preparation for technical interviews at top tier tech companies**
+
+> 💭 *"Consistency beats intensity. One problem solved deeply every single day compounds into mastery."*
+
+---
+
+## 📊 Solved Problems Statistics
+
+> 📌 **Accurate Live Breakdown of Solutions in this Repository** *(Last calculated: Nov 2026)*
+
+<div align="center">
+
+| Difficulty Level | Python3 🐍 | SQL 🗄️ | Combined Solved ⭐ | Distribution 📈 | Status |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Easy-00B8A3?style=for-the-badge&logoColor=white" height="24"/> | **89** | **10** | **99** | `77.3%` | 🟢 Mastered |
+| <img src="https://img.shields.io/badge/Medium-FFC01E?style=for-the-badge&logoColor=black" height="24"/> | **21** | **2** | **23** | `18.0%` | 🟡 Active Grind |
+| <img src="https://img.shields.io/badge/Hard-FF375F?style=for-the-badge&logoColor=white" height="24"/> | **6** | **0** | **6** | `4.7%` | 🔴 Leveling Up |
+| 🏆 **Total Problems Solved** | **116** | **12** | **128** | **100%** | 🚀 **Continuous Growth** |
+
+</div>
+
+<br/>
+
+### 🎯 Visual Progress Breakdown
+
+```text
+🟢 Easy    [██████████████████████████████████████░░░░░░░░░░] 99 / 128 (77.3%)
+🟡 Medium  [█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 23 / 128 (18.0%)
+🔴 Hard    [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  6 / 128 ( 4.7%)
+```
+
+---
+
+## ⚡ Live LeetCode Card
+
+<p align="center">
+  <a href="https://leetcode.com/u/sharath_u_r/">
+    <img src="https://leetcard.jacoblin.cool/sharath_u_r?theme=dark&font=Karma&ext=activity" alt="Sharath's LeetCode Stats" width="520px" />
+  </a>
 </p>
 
 ---
 
-# 📖 About This Repository
+## 🛠️ Languages & Tech Stack
 
-Welcome to my **LeetCode Solutions** repository! 👋
-
-This repository contains my daily solutions to LeetCode problems, written in **Python** and other **Language**. It serves as a record of my learning journey and continuous practice in **Data Structures & Algorithms (DSA)**.
-
-My goal is to improve my problem-solving skills, write clean and optimized code, and prepare for coding interviews at top tech companies.
-
----
-
-# 🎯 Goals
-
-* ✅ Solve LeetCode problems consistently
-* 📚 Master Data Structures & Algorithms
-* 💻 Improve coding and analytical thinking
-* 🚀 Prepare for technical interviews
-* 🌱 Learn efficient and optimized approaches
-* 📈 Track my coding progress over time
-
----
-
-# 🛠️ Language
-
-* 🐍 Python
-
-More languages may be added in the future.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python3"/>
+      <h3>Python 3</h3>
+      <p><b>116 Solutions</b></p>
+      <p>Data Structures, Dynamic Programming, Recursion, Two Pointers, Trees & Graphs</p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL"/>
+      <h3>SQL (MySQL / PostgreSQL)</h3>
+      <p><b>12 Solutions</b></p>
+      <p>Complex Joins, Aggregations, Window Functions, Group By & Subqueries</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
+
+The repository is logically organized by **Language** and **Difficulty**, making navigation effortless:
 
 ```text
-leetcode-solutions/
+Daily-leetcode/
 │
-├── Python/
-│   ├── 0001_Two_Sum.py
-│   ├── 0020_Valid_Parentheses.py
-│   ├── 0125_Valid_Palindrome.py
-│   ├── 0238_Product_of_Array_Except_Self.py
-│   └── ...
+├── 🐍 Python3/
+│   ├── 🟢 Easy/                 # 89 Solutions
+│   │   ├── 14. Longest Common Prefix.py
+│   │   ├── 100. Same Tree.py
+│   │   ├── 101. Symmetric Tree.py
+│   │   ├── 1108. Defanging an IP Address.py
+│   │   └── ...
+│   ├── 🟡 Medium/               # 21 Solutions
+│   │   ├── 12. Integer to Roman.py
+│   │   ├── 22. Generate Parentheses.py
+│   │   ├── 56. Merge Intervals.py
+│   │   ├── 678. Valid Parenthesis String.py
+│   │   └── ...
+│   └── 🔴 Hard/                 # 6 Solutions
+│       ├── 115. Distinct Subsequences.py
+│       ├── 940. Distinct Subsequences II.py
+│       ├── 992. Subarrays with K Different Integers.py
+│       ├── 1872. Stone Game VIII.py
+│       ├── 3116. Kth Smallest Amount With Single Denomination Combination.py
+│       └── 3312. Sorted GCD Pair Queries.py
 │
-├── README.md
+├── 🗄️ SQL/
+│   ├── 🟢 Easy/                 # 10 Solutions
+│   │   ├── 175. Combine Two Tables.sql
+│   │   ├── 181. Employees Earning More Than Their Managers.sql
+│   │   ├── 182. Duplicate Emails.sql
+│   │   ├── 183. Customers Who Never Order.sql
+│   │   └── ...
+│   └── 🟡 Medium/               # 2 Solutions
+│       ├── 176. Second Highest Salary.sql
+│       └── 1193. Monthly Transactions I.sql
+│
+└── 📄 README.md                 # Project Documentation & Live Metrics
 ```
 
 ---
 
-# 📝 File Naming Convention
+## 📝 File Naming Convention
 
-Each solution follows this format:
+Every file adheres to a clean, standardized naming structure matching LeetCode problem titles:
 
 ```text
-ProblemNumber_ProblemName.py
+<ProblemNumber>. <ProblemTitle>.<extension>
 ```
 
-Examples:
-
-```text
-0001_Two_Sum.py
-0020_Valid_Parentheses.py
-0125_Valid_Palindrome.py
-0238_Product_of_Array_Except_Self.py
-0704_Binary_Search.py
-```
+#### Examples:
+* 🐍 **Python:** `Python3/Medium/56. Merge Intervals.py`
+* 🐍 **Python:** `Python3/Hard/115. Distinct Subsequences.py`
+* 🗄️ **SQL:** `SQL/Medium/176. Second Highest Salary.sql`
 
 ---
 
-# 📚 Topics Covered
+## 📚 Key Topics Covered
 
-* 📦 Arrays
-* 🔤 Strings
-* 🗂️ Hash Tables
-* 🔗 Linked Lists
-* 📚 Stacks
-* 📥 Queues
-* 🌳 Trees
-* 🌲 Binary Trees
-* 🔎 Binary Search
-* 🧩 Recursion
-* 🔄 Backtracking
-* ⚡ Dynamic Programming
-* 🕸️ Graphs
-* 🎯 Greedy Algorithms
-* 🪟 Sliding Window
-* 👆 Two Pointers
-* ⛰️ Heap (Priority Queue)
-* 🔢 Bit Manipulation
-* ➗ Math
-* 🔀 Sorting
-* 🔍 Searching
+<div align="center">
 
----
+### 🧩 Algorithms & Core Data Structures
+<p>
+  <img src="https://img.shields.io/badge/Arrays-FF6B6B?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Strings-4ECDC4?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hash_Table-45B7D1?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Two_Pointers-96CEB4?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sliding_Window-FFEEAD?style=flat-square&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Binary_Search-D4A5A5?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trees_%26_BST-9B5DE5?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dynamic_Programming-F15BB5?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Greedy-FEE440?style=flat-square&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Backtracking-00F5D4?style=flat-square&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Stack_%26_Queue-3A86FF?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bit_Manipulation-8338EC?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Math_%26_Number_Theory-FB5607?style=flat-square&logo=leetcode&logoColor=white"/>
+</p>
 
-# 📈 Progress
+### 🗄️ Database & SQL
+<p>
+  <img src="https://img.shields.io/badge/INNER%20%2F%20LEFT%20JOIN-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Subqueries%20%26%20CTEs-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GROUP%20BY%20%26%20HAVING-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Window%20Functions-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DENSE__RANK%20%2F%20LIMIT-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
-| Difficulty | Solved |
-| ---------- | ------ |
-| 🟢 Easy    |   92  |
-| 🔴 Hard    |   05   |
-| ⭐ Total   |   99+  |
-
-> I will update these numbers as I continue solving more problems.
+</div>
 
 ---
 
-# ⭐ Why This Repository?
+## 🎯 Roadmap & Goals
 
-✔ Daily coding practice
-
-✔ Interview preparation
-
-✔ Clean and readable solutions
-
-✔ Optimized approaches
-
-✔ Consistent learning
-
-✔ Easy-to-navigate structure
-
-✔ Track personal growth
+- [x] **Milestone 1:** Solve 100+ LeetCode problems consistently
+- [x] **Milestone 2:** Expand problem-solving to SQL database challenges
+- [ ] **Milestone 3:** Cross 150+ solved problems with deep Medium coverage
+- [ ] **Milestone 4:** Deep-dive into Advanced Graph Theory & Dynamic Programming
+- [ ] **Milestone 5:** Compete regularly in weekly LeetCode contests
 
 ---
 
-# 🚀 Learning Journey
+## 🤝 Connect & Support
 
-> **"Consistency beats intensity."**
+<div align="center">
 
-I believe that solving one problem every day is better than solving many problems once in a while. This repository reflects my commitment to continuous improvement and lifelong learning.
+  <p>Have questions, suggestions, or alternative solutions? Let's connect!</p>
 
----
+  <a href="https://github.com/sharathgowdaur-jpg">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/sharath_u_r/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 
-# 🤝 Connect With Me
+  <br/><br/>
 
-* 💼 **GitHub:** https://github.com/sharathgowdaur-jpg
-* 💻 **LeetCode:** https://leetcode.com/u/sharath_u_r/
+  ⭐ **If you find this repository helpful or inspiring, consider giving it a star!** ⭐
 
----
+</div>
 
-# 🌟 Support
+<br/>
 
-If you find this repository helpful or inspiring:
-
-⭐ **Give this repository a star!**
-
-It motivates me to keep learning, solving problems, and sharing my progress.
-
----
+<!-- Footer Waving Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="Footer Banner"/>
+</p>
 
 <p align="center">
-  <b>💙 Happy Coding! 🚀</b>
-  <br><br>
-  <i>Sharath U R</i>
+  <b>Happy Coding! 🚀 Keep Grinding!</b><br/>
+  <i>Crafted with 💙 by Sharath U R</i>
 </p>
