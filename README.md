@@ -8,7 +8,7 @@
 
   <h2>👋 Welcome to My LeetCode Journey!</h2>
   <p>
-    <b>🎓 AI & Machine Learning Student</b> &nbsp;|&nbsp; 
+    <b>🎓 AI & Machine Learning Student</b> &nbsp;|&nbsp;
     <b>🐍 Python Enthusiast</b> &nbsp;|&nbsp; 
     <b>💡 Data Structures, Algorithms & SQL Explorer</b>
   </p>
@@ -69,7 +69,7 @@ This repository documents my daily grind in mastering **Data Structures & Algori
 
 | Difficulty Level | Python3 🐍 | SQL 🗄️ | Combined Solved ⭐ | Distribution 📈 | Status |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Easy-00B8A3?style=for-the-badge&logoColor=white" height="24"/> | **89** | **10** | **99** | `77.3%` | 🟢 Mastered |
+| <img src="https://img.shields.io/badge/Easy-00B8A3?style=for-the-badge&logoColor=white" height="24"/> | **91** | **10** | **99** | `77.3%` | 🟢 Mastered |
 | <img src="https://img.shields.io/badge/Medium-FFC01E?style=for-the-badge&logoColor=black" height="24"/> | **21** | **2** | **23** | `18.0%` | 🟡 Active Grind |
 | <img src="https://img.shields.io/badge/Hard-FF375F?style=for-the-badge&logoColor=white" height="24"/> | **6** | **0** | **6** | `4.7%` | 🔴 Leveling Up |
 | 🏆 **Total Problems Solved** | **116** | **12** | **128** | **100%** | 🚀 **Continuous Growth** |
@@ -127,7 +127,7 @@ The repository is logically organized by **Language** and **Difficulty**, making
 Daily-leetcode/
 │
 ├── 🐍 Python3/
-│   ├── 🟢 Easy/                 # 89 Solutions
+│   ├── 🟢 Easy/                 # 91 Solutions
 │   │   ├── 14. Longest Common Prefix.py
 │   │   ├── 100. Same Tree.py
 │   │   ├── 101. Symmetric Tree.py
